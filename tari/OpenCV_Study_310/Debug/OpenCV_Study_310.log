@@ -1,0 +1,13 @@
+﻿  Preprocess.cpp
+c:\users\jiyeon\desktop\opencv_3_license_plate_recognition_cpp-master\preprocess.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core/core.hpp': No such file or directory
+  PossiblePlate.cpp
+c:\users\jiyeon\desktop\opencv_3_license_plate_recognition_cpp-master\possibleplate.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core/core.hpp': No such file or directory
+  PossibleChar.cpp
+c:\users\jiyeon\desktop\opencv_3_license_plate_recognition_cpp-master\possiblechar.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core/core.hpp': No such file or directory
+  Main.cpp
+c:\users\jiyeon\desktop\opencv_3_license_plate_recognition_cpp-master\main.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core/core.hpp': No such file or directory
+  DetectPlates.cpp
+c:\users\jiyeon\desktop\opencv_3_license_plate_recognition_cpp-master\detectplates.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core/core.hpp': No such file or directory
+  DetectChars.cpp
+c:\users\jiyeon\desktop\opencv_3_license_plate_recognition_cpp-master\detectchars.h(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/core/core.hpp': No such file or directory
+  코드를 생성하고 있습니다...

@@ -1,0 +1,11 @@
+﻿  OCR.cpp
+c:\tesseract-master\api\baseapi.h(594): warning C4099: 'ETEXT_DESC': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  c:\tesseract-master\api\baseapi.h(56): note: 'ETEXT_DESC' 선언을 참조하십시오.
+c:\leptonica-master\src\pix.h(226): warning C4305: '초기화 중': 'double'에서 'l_float32'(으)로 잘립니다.
+c:\leptonica-master\src\pix.h(228): warning C4305: '초기화 중': 'double'에서 'l_float32'(으)로 잘립니다.
+d:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\jiyeon\documents\visual studio 2015\projects\opencv_study_310\opencv_study_310\ocr.cpp(28): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OpenCV_Study_310.vcxproj -> C:\Users\jiyeon\Documents\Visual Studio 2015\Projects\OpenCV_Study_310\x64\Debug\OpenCV_Study_310.exe
